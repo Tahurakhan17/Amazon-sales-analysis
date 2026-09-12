@@ -275,12 +275,6 @@ Potential extensions to this project include:
 B.E. — Computer Science & Engineering
 **Artificial Intelligence & Machine Learning**
 
-📌 Interested in **Data Analytics, SQL, Excel, and Business Intelligence**
+📌 Interested in **Data Analytics, Data Science, Data Engineer**
 
 ---
-
-## ⭐ Project Highlights
-
-**1,465 Products** • **9 Categories** • **10 SQL Analyses** • **MySQL + Excel**
-
-> Turning raw product data into actionable business insights using SQL and data visualization.
